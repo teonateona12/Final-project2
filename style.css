@@ -1,0 +1,90 @@
+.menu {
+  display: flex;
+  justify-content: space-between;
+  position: fixed;
+  background-color: white;
+  width: 99%;
+  top: 0;
+}
+#ulid {
+  margin: 0;
+  display: block;
+}
+.sandwich-img {
+  width: 270px;
+  height: 400px;
+}
+.text-div {
+  display: flex;
+  text-align: center;
+  justify-content: center;
+}
+.food-div {
+  margin-left: 20px;
+  margin-top: 100px;
+  width: 270px;
+}
+.main-div {
+  display: flex;
+  justify-content: center;
+}
+.center {
+  align-items: center;
+}
+ul {
+  display: flex;
+  justify-content: center;
+  list-style-type: none;
+  align-items: center;
+  padding: 0;
+}
+li {
+  display: block;
+  padding: 15px;
+}
+.active {
+  background-color: black;
+  color: white;
+}
+.ul-div {
+  margin: 10px;
+}
+li:hover {
+  background-color: black;
+  color: white;
+}
+.container {
+  display: flex;
+  margin-left: 50px;
+  margin-top: 100px;
+}
+.img-work {
+  width: 80px;
+  height: 80px;
+}
+.container-one {
+  display: flex;
+  width: 350px;
+  margin-top: 10px;
+}
+.container-one:hover {
+  background-color: antiquewhite;
+}
+.div-two {
+  margin-left: 30px;
+}
+.pic-div {
+  margin: 15px;
+}
+.text {
+  background-color: black;
+  color: white;
+  margin: 5px;
+  padding: 5px;
+}
+.text-flex {
+  display: flex;
+}
+.one {
+  width: 40px;
+}
